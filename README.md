@@ -10,4 +10,4 @@ So basically this plot visualizes the similarity of connectivity in the court de
 in similar patterns are closer together in the visualized space. The interesting research question is what do the PCA dimensions correspond to, because
 it is apparent that different classes of Articles vary along different dimensions.
 
-To run the visualization clone the repository, cd into it, run "poetry install" and then "poetry run python human_rights_visualization.py"
+Install poetry here https://python-poetry.org/docs/ To run the visualization clone the repository, cd into it, run "poetry install" and then "poetry run python human_rights_visualization.py" Of course you can also just pip install pandas and plotly and simply running "python human_rights_visualization.py" should work:-) But I'm a fan of poetry!
