@@ -1,7 +1,5 @@
 import pandas as pd
-import pandas as pd
 import plotly.express as px
-import seaborn as sns
 import json
 
 X_embedded = pd.read_csv("human_rights_articles_embedded.csv", header=0)
