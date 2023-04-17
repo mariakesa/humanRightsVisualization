@@ -11,3 +11,5 @@ in similar patterns are closer together in the visualized space. The interesting
 it is apparent that different classes of Articles vary along different dimensions.
 
 Install poetry here https://python-poetry.org/docs/ To run the visualization clone the repository, cd into it, run "poetry install" and then "poetry run python human_rights_visualization.py" Of course you can also just pip install pandas and plotly and simply running "python human_rights_visualization.py" should work:-) But I'm a fan of poetry!
+
+![alt text](https://github.com/mariakesa/humanRightsVisualization/blob/main/humrightsviz.png)
