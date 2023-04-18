@@ -1,5 +1,7 @@
 # humanRightsVisualization
 
+Update: the visualization is currently deployed on Streamlit. You can view it here https://mariakesa-humanrightsvisualization-app-p8ba4o.streamlit.app/
+
 Visualization of processed data from European Court of Human Rights API. Currently doesn't include the processing steps, but these will be added soon.
 
 Basically, I made a multi-graph from Articles that were triggered in court decisions (i.e. draw an edge between nodes-Articles if they were triggered together
